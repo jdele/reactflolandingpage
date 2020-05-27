@@ -3,7 +3,8 @@ import App from "../components/App"
 
 export default function Main() {
   return (
-  <div>
-    <App />
-  </div>)
+    <div>
+      <title>reactFLO</title>
+      <App />
+    </div>)
 }
