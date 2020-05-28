@@ -60,9 +60,13 @@ html {
 }
 
 #featuresImage {
-  width: 55%;
-  height: 55%;
-  max-width: 55%;
+  width: 50%;
+  height: 50%;
+  max-width: 50%;
+  box-shadow: 0 0 5px #222;
+  margin-left: 2em;
+  border-radius: 5px;
+  margin-bottom: 50px;
 }
 
 #featuresList {
