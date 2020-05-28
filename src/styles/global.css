@@ -60,9 +60,9 @@ html {
 }
 
 #featuresImage {
-  width: 50%;
-  height: 50%;
-  max-width: 50%;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
   box-shadow: 0 0 5px #222;
   margin-left: 2em;
   border-radius: 5px;
