@@ -36,7 +36,7 @@ function NavBar() {
       </Nav>
       <Nav>
         <Nav.Link href="https://github.com/oslabs-beta/ReactFLO"> <GoMarkGithub style={{ color: '#F6780D', marginTop: "2px" }} size={32} /></Nav.Link>
-        <Nav.Link href="linktochromehere"><AiOutlineChrome style={{ color: '#F6780D' }} size={36} /></Nav.Link>
+        <Nav.Link href="https://chrome.google.com/webstore/detail/dcfgjebpfnpkeanpdingcfgcdjbkplim/"><AiOutlineChrome style={{ color: '#F6780D' }} size={36} /></Nav.Link>
       </Nav>
     </Navbar>
   )
