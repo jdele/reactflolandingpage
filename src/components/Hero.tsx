@@ -13,9 +13,7 @@ function Hero() {
           <div className="waveWrapperInner bgMiddle">
             <div className="wave waveMiddle" style={{ backgroundImage: `url('http://front-end-noobs.com/jecko/img/wave-mid.png')` }}></div>
           </div>
-          <div className="waveWrapperInner bgBottom">
-            <div className="wave waveBottom" style={{ backgroundImage: `url('http://front-end-noobs.com/jecko/img/wave-bot.png')` }}></div>
-          </div>
+
         </div>
       </div>
       <section id="hero">
@@ -24,7 +22,8 @@ function Hero() {
           src={ReactLogo}
           alt="reactflo-logo"
         />
-        <div id="heroLine" className="animate__animated animate__fadeInUp">
+        <div id="heroLine"
+          className="animate__animated animate__fadeInUp">
           <h2 id="heroH2">A React State Visualization Tool</h2>
           <p id="heroDescription">A Chrome DevTool built for developers to visualize the flow of state throughout their application.</p>
           <button
